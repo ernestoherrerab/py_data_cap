@@ -1,0 +1,11 @@
+---
+
+core:
+  num_workers: 50
+
+inventory:
+  plugin: nornir.plugins.inventory.simple.SimpleInventory
+  options:
+    host_file: "config/hosts.yml"
+    group_file: "config/groups.yml"
+    defaults_file: "config/defaults.yml"

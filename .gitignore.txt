@@ -1,0 +1,3 @@
+csv_data/
+json_data/
+nornir.log

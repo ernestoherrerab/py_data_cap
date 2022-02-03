@@ -1,0 +1,9 @@
+Hostname;Platform;FQDN
+SWEs-dev1-edge1;nxos;SWEs-dev1-edge1.acme.com
+SWEs-dev1-edge2;nxos;SWEs-dev1-edge2.acme.com
+SWEs-dev1-edge5;nxos;SWEs-dev1-edge5.acme.com
+SWEs-dev1-edge6;nxos;SWEs-dev1-edge6.acme.com
+SWEs-dev1-edge7;nxos;SWEs-dev1-edge7.acme.com
+SWEs-dev1-edge8;nxos;SWEs-dev1-edge8.acme.com
+SWEs-dev1-edge9;nxos;SWEs-dev1-edge9.acme.com
+SWEs-dev1-edge10;nxos;SWEs-dev1-edge10.acme.com

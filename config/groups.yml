@@ -1,0 +1,8 @@
+---
+ios_devices:
+    platform: ios
+nxos_devices:
+    platform: nxos_ssh
+
+
+    
